@@ -1,6 +1,6 @@
 # glm_adank_etal_cloned_speech
 
-This respiratory contains the data and R code for the the dual-task experiment in Adank et al. (in preparation).
+This respiratory contains the data and R code for the the cloned speech data in Adank et al. (in preparation).
 
 **Data (the files below are required for replicating the analyses covered in the paper)**:
 
